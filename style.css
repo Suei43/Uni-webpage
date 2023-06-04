@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background:rgba(0,0,0,0.7)url(banner.png);
+    background:rgba(0,0,0,0.7)url(img/banner.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -255,7 +255,7 @@ nav img{
 .action{
     margin: 100px auto;
     width: 80%;
-    background:rgba(0,0,0,0.7)url(banner2.jpg);;
+    background:rgba(0,0,0,0.7)url(img/banner2.jpg);;
     background-position: center;
     background-size: cover;
     border-radius: 10px;
